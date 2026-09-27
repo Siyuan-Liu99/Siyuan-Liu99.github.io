@@ -21,5 +21,6 @@
 nav{align-items:center}
 nav .language-switch{color:#1964a3;border:1px solid #dbe5ee;border-radius:4px;padding:3px 10px;white-space:nowrap}
 html[lang="zh-Hans"] body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif}
-html[lang="zh-Hans"] .eyebrow{letter-spacing:2px}
+html[lang="zh-Hans"] .eyebrow{font-size:1.15rem;line-height:1.5;letter-spacing:2px}
+@media(max-width:480px){html[lang="zh-Hans"] .eyebrow{font-size:1rem}}
 @media(max-width:540px){.site-header{flex-wrap:wrap;gap:12px;padding-top:15px;padding-bottom:15px}.site-header nav{width:100%;justify-content:space-between;gap:10px}}
