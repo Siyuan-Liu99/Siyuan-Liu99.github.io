@@ -20,6 +20,8 @@
 .site-header{gap:20px}
 nav{align-items:center}
 nav .language-switch{color:#1964a3;border:1px solid #dbe5ee;border-radius:4px;padding:3px 10px;white-space:nowrap}
+footer{gap:18px;flex-wrap:wrap;align-items:baseline}
+.footer-stats{display:flex;gap:18px;flex-wrap:wrap;font-variant-numeric:tabular-nums}
 html[lang="zh-Hans"] body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif}
 html[lang="zh-Hans"] .eyebrow{font-size:1.15rem;line-height:1.5;letter-spacing:2px}
 @media(max-width:480px){html[lang="zh-Hans"] .eyebrow{font-size:1rem}}
