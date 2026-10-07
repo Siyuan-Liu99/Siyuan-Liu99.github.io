@@ -20,6 +20,3 @@ Publication metadata and acceptance status were supplied by the author. The MyoC
 
 ## Languages
 The root URL opens the English homepage. Use the header language link to switch between `index.html` and `zh.html`. Keep publication metadata and links synchronized across both pages.
-
-## Visit statistics
-The footer displays site page views and unique visitors using the hosted Busuanzi script. Counts start when tracking is enabled; they are not historical traffic totals. The service needs JavaScript and may be blocked by browser privacy settings.
