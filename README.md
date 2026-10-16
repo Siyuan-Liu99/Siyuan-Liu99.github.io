@@ -18,8 +18,5 @@ GitHub Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
 
 Publication metadata and acceptance status were supplied by the author. The MyoChallenge proceedings citation is provisional until the final proceedings metadata is available.
 
-## Languages
-The root URL opens the English homepage. Use the header language link to switch between `index.html` and `zh.html`. Keep publication metadata and links synchronized across both pages.
-
 ## Private analytics
-Both language pages load Google Analytics 4 with measurement ID `G-R46LY3BJ50`. Visit statistics appear in the Google Analytics property for accounts with access; no counter is displayed on the website.
+The English homepage loads Google Analytics 4 with measurement ID `G-R46LY3BJ50`. Visit statistics appear in the Google Analytics property for accounts with access; no counter is displayed on the website.
